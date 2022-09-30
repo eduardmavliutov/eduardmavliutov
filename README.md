@@ -1,6 +1,5 @@
 ### Hello! 👋
 
-- 🔭 I’m currently working on [Videogame Quiz](https://github.com/eduardmavliutov/videogame-quiz)
 - 🌱 I’m currently learning [GSAP](https://greensock.com/)
 - 📖 I’m currently reading [Testing Vue.js Applications](https://livebook.manning.com/book/testing-vue-js-applications/about-this-book/)
 - 💬 Ask me about **absolutly anything** 👻
