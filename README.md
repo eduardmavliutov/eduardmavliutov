@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-- 🌱 I’m currently learning [Design Patters on HTML Academy](https://levelup.htmlacademy.ru/design-patterns)
+- 🌱 I’m currently learning [Advanced Vue Component Design](https://adamwathan.me/advanced-vue-component-design/)
 - 💬 Ask me about **absolutly anything** 👻
 - 📫 How to reach me: fox11-best@yandex.ru
 - 😄 Pronouns: he/him
