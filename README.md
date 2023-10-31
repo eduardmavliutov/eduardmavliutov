@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-- 🌱 I’m currently learning [Advanced Vue Component Design](https://adamwathan.me/advanced-vue-component-design/)
+- 🌱 I’m currently learning [Clean Components Toolkit]([https://adamwathan.me/advanced-vue-component-design/](https://michaelnthiessen.com/clean-components-toolkit))
 - 💬 Ask me about **absolutly anything** 👻
 - 📫 How to reach me: fox11-best@yandex.ru
 - 😄 Pronouns: he/him
