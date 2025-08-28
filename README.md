@@ -6,3 +6,4 @@ Additionally I have experience in building cloud functions and their optimizatio
 - 🌱 I’m currently learning [C# Basics](https://purpleschool.ru/course/csharp-basics)
 - 📖 I’m currently reading [Vue Tips Collection](https://michaelnthiessen.com/vue-tips-collection)
 - 📫 How to reach me: eduard.m.frontend@gmail.com
+- 📟 My dev.to page: https://dev.to/eduardmavliutov
